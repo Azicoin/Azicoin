@@ -1,6 +1,7 @@
 Release notes 1.1.1
 
 - New API for CryptoNote RPC Wallet
+- Coin name changed to Azicoin
 
 Release notes 1.1.0
 
